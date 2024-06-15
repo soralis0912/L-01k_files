@@ -30,3 +30,8 @@
     using H930_BL/rawprogram0.xml
 
     or your backup data
+
+
+source
+
+[XDA](https://xdaforums.com/t/lg-v30-v30-v30s-bootloader-unlock-root-method-with-clear-instructions.3790500/)
